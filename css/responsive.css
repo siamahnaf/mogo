@@ -1,0 +1,188 @@
+@media (max-width: 1200px) {
+    .logo_area {margin-top: 18px;}
+    .sticky_nav .logo_area {margin-left: 1rem;margin-top: 12px;}
+    .logo_area a {font-size: 18px;}
+    .sticky_nav .manu_area {margin-right: 0;}
+    .nav_links ul li a {font-size: 13px;}
+    .nav_links ul li::after {height: 2px;top: 100%;}
+    .cart_nav ul li {margin-right: 1rem;}
+    .port_hover_content h5 {font-size: 12px;}
+    #mogo_slider .carousel-indicators li:hover .controller::after, #mogo_slider .carousel-indicators li.active .controller::after {top: -4%;}
+}
+@media (max-width: 992px) {
+    .top_header .container, .container-md, .container-sm {max-width: 1155px;}
+    .cart_nav ul li {margin-right: 1rem;}
+    .item_text {font-size: 55px;}
+    .item_text span {font-size: 80px;}
+    #mogo_slider .carousel-inner {height: 20rem;}
+    .counting_item {padding: 1.5rem 0;}
+    .number {font-size: 55px;}
+    .counting_text {font-size: 12px;}
+    .service_content h2 {font-size: 16px;}
+    .service_content p {color: #000000a1;font-size: 14px;}
+    .what_we .btn.btn-link.test_btn p {font-size: 16px;}
+    .what_we .testi_body {font-size: 14px;}
+    .what_we .testi_body {height: 126px;}
+    .slider_icon {width: 10%;font-size: 55px;}
+    .slider_content p {font-size: 16px;}
+    .slider_content h5 {font-size: 16px;}
+    .slider_img {width: 14%;}
+    .testimonial_2 .unslider-arrow.prev {margin-top: -4.5rem;}
+    .testimonial_2 .unslider-arrow.next {margin-top: -4.5rem;}
+    .happy_img {width: 14%;}
+    .footer_blog_img {width: 29%;}
+    .footer_logo a {font-size: 33px;}
+    .single_footer h4 {font-size: 18px;}
+    .footer_nav {margin-top: 18px;margin-bottom: 26px;}
+    .footer_nav ul li {margin: 0 4px;font-size: 14px;}
+    .footer_nav ul li a {font-size: 14px;}
+    .footer_btn {font-size: 16px;padding: 8px 5px;}
+    .bottom_footer {margin-top: -75px;}
+    .section_heading p {width: 90%;}
+    .bottom_header .container, .container-md, .container-sm {max-width: 850px;}
+}
+@media (max-width: 768px) {
+    .nav_links ul li {margin: 0 14px;}
+    .logo_area {margin-top: 18px;}
+    .cart_nav ul li {margin-right: 10px;}
+    .item_text {font-size: 35px;}
+    .item_text {font-size: 35px;}
+    #mogo_slider .carousel-inner {height: 15rem;}
+    .sticky_nav .manu_area {margin-right: 12px;}
+    .section_heading h4 {font-size: 21px;}
+    .section_heading h3 {font-size: 24px;}
+    .section_heading p {width: 100%;}
+    .about_hover {padding-top: 3rem;}
+    .about_hover svg {font-size: 16px;}
+    .about_hover span {font-size: 15px;}
+    .counting_item {padding: 1rem 0;}
+    .service_icon svg {font-size: 20px;}
+    .service_content h2 {font-size: 14px;}
+    .service_icon {margin-top: 0px;}
+    .unique_gallery img {width: 22%;}
+    .unique_section {height: 26.2rem;}
+    .unique_fiure img {width: 10%;margin-top: -8rem;margin-left: 11rem;}
+    .section_heading p {font-size: 13px;}
+    .what_we .btn.btn-link.test_btn p {font-size: 14px;}
+    .what_we .btn.btn-link.test_btn .testi_icon {font-size: 18px;}
+    .card-body {padding: 13px;}
+    .what_we .testi_body {height: 85px;}
+    .what_we .btn.btn-link.test_btn .testi_arrow {font-size: 20px;}
+    .what_we .btn.btn-link.test_btn {padding: 7px 0px;}
+    .slider_icon {width: 9%;font-size: 32px;}
+    .slider_content p {font-size: 14px;}
+    .testimonial .unslider-arrow.prev {font-size: 18px;}
+    .testimonial .unslider-arrow.next {font-size: 18px;}
+    .team_text h4 {font-size: 18px;}
+    .team_text span {font-size: 13px;}
+    .bran_img a img {width: 95px;}
+    .port_hover_content svg {font-size: 18px;}
+    .port_hover_content h5 {font-size: 11px;}
+    .happy_content {width: 75%;}
+    .blog_date {top: 50%;left: -8%;font-size: 28px;}
+    .blog_content h5 {font-size: 17px;}
+    .eye_icon {width: 32%;}
+    .map_heading svg {font-size: 38px;}
+    .map_heading span {font-size: 26px;}
+    .footer_blog_content {width: 63%;}
+    .mogo_search_icon {top: 4%;font-size: 25px;}
+    .mogo_serch input {font-size: 30px;}
+}
+@media (max-width: 767px) {
+    .logo_area {text-align: center !important;}
+    .nav_links {text-align: left;margin-top: 2px;}
+    .logo_area a {font-size: 20px;}
+    .cart_nav {margin-top: 4px;}
+    .item_text {font-size: 33px;}
+    .item_text span {font-size: 60px;}
+    #mogo_slider .controller span {font-size: 14px;}
+    #mogo_slider .controller {font-size: 10px;}
+    .bottom_header .container, .container-sm {max-width: 735px;}
+    #mogo_slider .carousel-indicators li:hover .controller::after, #mogo_slider .carousel-indicators li.active .controller::after {top: -5%;
+    width: 45%;}
+    .about_content {margin-bottom: 3rem;}
+    .counting_section .container, .container-sm {max-width: 615px;}
+    .counting_item {padding: 6px 0;}
+    .number {font-size: 40px;}
+    .counting_text {font-size: 10px;}
+    .service .container, .container-sm {max-width: 690px;}
+    .service_icon {width: 8%;}
+    .unique_section {height: 23.2rem;}
+    .unique_fiure img {margin-top: -7rem;margin-left: 9rem;}
+    .what_figure {margin-bottom: 2rem;}
+    .single_team {width: 85%;margin: 0 auto;margin-bottom: 4rem;}
+    .brand_section {text-align: center;}
+    .slider_content.slider_content_2 {width: 79%;}
+    .testimonial_2 .unslider-arrow.prev {margin-top: -5.5rem;}
+    .testimonial_2 .unslider-arrow.next {margin-top: -5.5rem;}
+    .blog_date {top: 70%;left: -6%;font-size: 35px;}
+    .single_blog {margin-bottom: 5rem;}
+    .footer_nav ul li {margin: 0 16px;}
+    .single_footer {margin-top: 3rem;}
+    .what_we .container, .container-sm {max-width: 670px;}
+}
+@media (max-width: 640px) {
+    .manu_bar_list {display: block !important;cursor: pointer;}
+    .cart_nav ul li {display: inline-block !important;}
+    .manu_bar_icon svg {color: white;}
+    .top_header {background: rgba(234, 83, 83, 0.70);}
+    .top_header .container, .container-sm {max-width: 665px;}
+    .cart_nav {width: 25%;margin: 0;margin-top: -32px;}
+    .logo_area {margin: 8px 0;}
+    .logo_area {text-align: left !important;}
+    .nav_links {position: absolute;background: rgba(56,56,56,0.95);
+    width: 100%;left: 0;top: 0 !important;margin-top: 0px;text-align: left;
+    z-index: 99999;display: none;}
+    .nav_links ul li {display: block;margin: 15px 12px;}
+    .nav_links ul li:hover::after, .nav_links ul li.active::after {width: 0;}
+    .sticky_nav .mogo_nav {margin-left: 19px;}
+    .sticky_nav {padding-bottom: 2px;}
+    .item_text {font-size: 25px;}
+    .item_text {font-size: 25px;}
+    .item_text span {font-size: 45px;}
+    #mogo_slider .mogo_line {width: 60px;height: 2px;margin-top: 10px;}
+    .mogo_btn {font-size: 14px;}
+    #mogo_slider .carousel-inner {height: 13rem;}
+    #mogo_slider .controller span {font-size: 16px;}
+    #mogo_slider .controller {font-size: 12px;}
+    #mogo_slider .carousel-indicators li:hover .controller::after, #mogo_slider .carousel-indicators li.active .controller::after {width: 50%;height: 2.2px;top: -5%}
+    .about_content {width: 95%;margin: 0 auto;margin-bottom: 2rem;}
+    .number {font-size: 30px;}
+    .counting_section .container, .container-sm {max-width: 745px;}
+    .service .container, .container-sm {max-width: 590px;}
+    .service_icon {width: 10%;}
+    .service_icon svg {font-size: 25px;}
+    .unique_gallery img {width: 30%;}
+    .unique_section {height: 26.2rem;}
+    .unique_fiure img {width: 15%;}
+    .what_figure {margin-bottom: 2rem;}
+    .what_we .testi_body {height: 130px;}
+    .what_we .container, .container-sm {max-width: 590px;}
+    .slider_content {width: 84%;}
+    .single_team {width: 90%;margin: 0 auto;margin-bottom: 3rem;}
+    .brand_section {text-align: center;}
+    .about_hover {padding-top: 8rem;}
+    .single_service {margin-bottom: 6rem !important;}
+    .team_hover {padding-top: 15rem;}
+    .slider_content.slider_content_2 {width: 79%;}
+    .testimonial_2 .unslider-arrow.prev {margin-top: -5.5rem;}
+    .testimonial_2 .unslider-arrow.next {margin-top: -5.5rem;}
+    .single_blog {margin-bottom: 5rem;}
+    .blog_date {top: 65%;left: -3%;font-size: 30px;}
+    .single_footer {margin-top: 2rem;}
+    .footer_nav ul li {margin: 0 16px;}
+    .footer_input {width: 81%;}
+    .cart_nav {width: 60%;}
+    .port_hover_content p {display: none;}
+    .blog_section .container, .container-sm {max-width: 465px;}
+}
+@media (max-width: 480px) {
+    .controller_text {display: none;
+    }
+    #mogo_slider .carousel-indicators li:hover .controller::after, #mogo_slider .carousel-indicators li.active .controller::after {width: 100%;height: 2px;top: 0%;margin-top: -2px;
+    }
+    .unique_section {height: 25.2rem;}
+    .slider_content h5 {width: 87%;}
+    .slider_content h5 {width: 87%;}
+    .footer_nav ul li {margin: 0 11px;}
+}
