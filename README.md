@@ -28,7 +28,7 @@ To unlock the wonders of this project, simply follow these steps:
 <img src="https://lh3.googleusercontent.com/d/1fHZqd2oOmHF82sAEd36U7fhtXMJfvaak" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1ji0clZMU2jhNMv2afsZkaBr9GEaw5ccv" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1qTuyY-0kfwLSj3kul8grFXbAiuJZmkK9" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1jde700Dov47dOcx-796rFPRbu0kOsTeO" width="30px" height="30px" />
 
 ## Screenshot
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695737076/Web_capture_26-9-2023_19550_cabbgeweb.github.io_wre2pa.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695737967/Web_capture_26-9-2023_20198_cabbgeweb.github.io_mxlirz.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
 Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
