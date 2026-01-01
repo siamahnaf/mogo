@@ -32,7 +32,7 @@ To unlock the wonders of this project, simply follow these steps:
 <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/html.png" width="30px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/css-2.png" width="30px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/jquery.png" width="30px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/bootstrap.png" width="30px" height="30px" />
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/screenshots/mogo.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/screenshots/mogo.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Webinuxs
 <picture>
